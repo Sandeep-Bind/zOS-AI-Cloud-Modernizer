@@ -1,0 +1,5 @@
+modernization_parameters:
+  target_cloud: "AWS RDS PostgreSQL"
+  cdc_sync_interval_seconds: 30
+  ai_triage_enabled: true
+  claude_model_version: "claude-3-5-sonnet"
